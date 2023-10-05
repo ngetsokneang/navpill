@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+body{
+    background-color: rgb(179, 179, 230);
+    font-family: 'Poppins', sans-serif;
+}
+.card-body .card-top .level{
+    font-size: 12px;
+    color: blue;
+}
+.card-body .text-title p{
+    font-size: 15px;
+}
+.fa-star{
+    font-size: 12px;
+    color: gold;
+}
+.card-body .rate p{
+    font-size: 15px;
+}
+.fa-heart{
+    color: red;
+}
